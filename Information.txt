@@ -1,0 +1,8 @@
+Database Name : - hotel.sql
+1) user name : - Admin
+password  : - 1234
+
+2) Avi
+   1234
+   
+ENJOY DDDD
